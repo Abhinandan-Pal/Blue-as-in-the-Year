@@ -1,7 +1,7 @@
 # Blue-as-in-the-Year
 A 3D game as a mode of storytelling. 
 
-Linux : https://drive.google.com/file/d/1JEfJwyXXJFCC6CgbX9T3l695SNX_ldzE/view?usp=sharing
+Linux : https://drive.google.com/file/d/1wuRyEQc2ERpqIMqijsT72YldViz3tJmh/view?usp=sharing
 
 Linux(Low) : https://drive.google.com/file/d/1K_zs09Ysz3ntisu2Ru9a2qAyQvzgoUSH/view?usp=sharing
 
