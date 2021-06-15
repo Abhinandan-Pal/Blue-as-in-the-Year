@@ -1,7 +1,6 @@
 
 # Blue-as-in-the-Year
 A 3D game as a mode of storytelling. 
-"Time is health and its no time for violence. But violence does help remember."
 
 Linux : https://drive.google.com/file/d/1wuRyEQc2ERpqIMqijsT72YldViz3tJmh/view?usp=sharing
 
@@ -12,7 +11,7 @@ Windows : https://drive.google.com/file/d/19u-nM-mri3t25Wb7MMKWkK0sJXEY5r8V/view
 Mac : https://drive.google.com/file/d/1YlbLmoPeRenXAUsNndgcTmH09xc6GWjq/view?usp=sharing
 
 
-Demo Clips {unfortunetly highly compressed}:
+Demo Clips {unfortunetly highly compressed}[Also Remember to unmute]:
 
 https://user-images.githubusercontent.com/32072723/113485225-17e32980-94ca-11eb-9584-72c1272c25b5.mp4
 
